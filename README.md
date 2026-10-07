@@ -1,6 +1,6 @@
 # Kestrel Bank — Business Loan Risk Model
 
-Can public Companies House records flag UK companies at risk of failure before a missed payment?
+Can public Companies House records flag UK companies at risk of failure early?
 
 Three signals (director resignations, overdue filings, outstanding charges) are combined into a 0–3 risk score and tested against known formal insolvencies across 9,844 UK companies.
 
